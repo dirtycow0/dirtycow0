@@ -2,8 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/dirtycow0/dirtycow0/main/assets/header.svg" width="100%" alt="dirtycow0" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=39FF14&center=true&vCenter=true&width=600&height=42&lines=cybersecurity+enthusiast;self-taught%2C+4%2B+years+in;17+and+still+reading+the+man+pages" width="600" height="42" alt="cybersecurity enthusiast" />
-
 </div>
 
 ```
