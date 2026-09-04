@@ -47,7 +47,7 @@
         font-size="74" font-weight="700" fill="#39ff14" letter-spacing="1">dirtycow0</text>
 
   <!-- blinking cursor -->
-  <rect x="445" y="94" width="30" height="46" fill="#39ff14">
+  <rect x="458" y="94" width="28" height="46" fill="#39ff14">
     <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
   </rect>
 
