@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1a3a2a,100:39ff14&height=200&section=header&text=dirtycow0&fontColor=e6fff0&fontSize=64&fontAlignY=38" width="100%" alt="dirtycow0" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1200&color=39FF14&center=true&vCenter=true&width=560&height=45&lines=cybersecurity+enthusiast;self-taught%2C+4%2B+years+in;17+and+still+reading+the+man+pages" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1200&color=39FF14&center=true&vCenter=true&width=600&height=45&lines=cybersecurity+enthusiast;self-taught%2C+4%2B+years+in;17+and+still+reading+the+man+pages" alt="cybersecurity enthusiast" />
 
 </div>
 
-<br>
-
 ```
+    _ _     _                       __
+ __| (_)_ _| |_ _  _ __ _____ __ __/  \
+/ _` | | '_|  _| || / _/ _ \ V  V / () |
+\__,_|_|_|  \__|\_, \__\___/\_/\_/ \__/
+                |__/
+
  ________________________________________
-/  dirtycow0                             \
-|                                        |
-|  role .......... cybersecurity         |
+/  role .......... cybersecurity         \
 |  age ........... 17                    |
 |  experience .... 4-5 years             |
 |  training ...... self-taught           |
