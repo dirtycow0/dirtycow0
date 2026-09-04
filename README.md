@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a3a2a,100:39ff14&height=190&section=header&text=dirtycow0&fontColor=c9ffd9&fontSize=68&fontAlignY=36&desc=CVE-2016-5195&descAlignY=58&descSize=14" width="100%" alt="dirtycow0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1a3a2a,100:39ff14&height=200&section=header&text=dirtycow0&fontColor=e6fff0&fontSize=64&fontAlignY=38" width="100%" alt="dirtycow0" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1200&color=39FF14&center=true&vCenter=true&width=560&height=45&lines=cybersecurity+enthusiast;self-taught%2C+4%2B+years+in;17+and+still+reading+the+man+pages" alt="typing" />
 
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/green-line-neon.gif" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39ff14,100:0d1117&height=3" width="100%" alt="" />
 
 </div>
 
@@ -101,7 +101,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/green-line-neon.gif" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39ff14,100:0d1117&height=3" width="100%" alt="" />
 
 </div>
 
@@ -114,7 +114,7 @@ english:  ████████████████░░░░  daily
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/green-line-neon.gif" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39ff14,100:0d1117&height=3" width="100%" alt="" />
 
 </div>
 
@@ -139,7 +139,7 @@ drwxr-xr-x   dirtycow0   ..
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/green-line-neon.gif" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39ff14,100:0d1117&height=3" width="100%" alt="" />
 
 </div>
 
@@ -161,6 +161,6 @@ $ systemctl status dirtycow0
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:39ff14,50:1a3a2a,100:0d1117&height=120&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff14,55:1a3a2a,100:0d1117&height=140&section=footer" width="100%" alt="" />
 
 </div>
